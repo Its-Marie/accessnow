@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# Python backend venv
+accessnow-backend/.venv/
+
+# Node modules (in case someone deletes folder .gitignore in frontend)
+accessnow-frontend/node_modules/
+
+# Ignore local folder for design files (do not upload again)
+Misc/
